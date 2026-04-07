@@ -888,3 +888,87 @@ a.res-nsdi.ru
 b.res-nsdi.ru
 a.auth-nsdi.ru
 b.auth-nsdi.ru
+
+# === Yandex core services (critical) ===
+yandex.kz
+yandex.by
+yandex.ua
+yandex.eu
+
+# === Auth / Passport ===
+passport.yandex.ru
+passport.yandex.com
+passport.yandex.net
+pass.yandex.ru
+
+# === Yandex Music (ОЧЕНЬ важно) ===
+music.yandex.ru
+music.yandex.com
+api.music.yandex.net
+storage.mds.yandex.net
+streaming.mds.yandex.net
+audio.mds.yandex.net
+
+# === Video / streaming ===
+video.yandex.ru
+frontend.vh.yandex.ru
+vh.yandex.ru
+strm.yandex.net
+strm.yandex.com
+
+# === Disk / Cloud ===
+disk.yandex.ru
+disk.yandex.com
+downloader.disk.yandex.ru
+cloud-api.yandex.net
+
+# === Search / Suggest ===
+suggest.yandex.ru
+suggest.yandex.com
+yasearch.net
+
+# === Ads / tracking (ломает сервисы если нет) ===
+awaps.yandex.ru
+awaps.yandex.net
+an.yandex.com
+yabs.yandex.com
+yabs.yandex.net
+
+# === Maps / Geo ===
+geocode-maps.yandex.ru
+static-maps.yandex.ru
+core-renderer-tiles.maps.yandex.net
+vector.maps.yandex.net
+
+# === Images / CDN ===
+avatars.yandex.net
+avatars.yandex.ru
+avatars.yandex.com
+im0-tub-ru.yandex.net
+im1-tub-ru.yandex.net
+
+# === Browser / sync ===
+sync.browser.yandex.ru
+sync.browser.yandex.com
+
+# === Translate / AI ===
+translate.yandex.ru
+translate.yandex.com
+api.translate.yandex.net
+
+# === Market / services ===
+market.yandex.ru
+beru.ru
+
+# === Taxi / Go ===
+taxi.yandex.ru
+go.yandex
+
+# === Notifications / push ===
+push.yandex.ru
+push.yandex.net
+
+# === Additional CDN edges ===
+cdn.yandex.net
+cdn.yandex.com
+edge.yandex.net
